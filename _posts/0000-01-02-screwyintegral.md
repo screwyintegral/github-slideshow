@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+![Nicole and Dom](IMG-1188.jpg)
 Use the left arrow to go back!
